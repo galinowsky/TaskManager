@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "openai": "^3.2.1"
+  },
+  "name": "tasks-manager",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
